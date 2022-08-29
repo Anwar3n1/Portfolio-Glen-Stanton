@@ -32,3 +32,6 @@ img {
 html{
   background-color:edf2f4;
 }
+a:link    { color: blue;  }
+a:visited { color: red;   }
+a:hover   { color: green; }
